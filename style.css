@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+h1, h3{
+    color: white;
+    text-align: center;
+    font-family: cursive;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-family: cursive;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-family: cursive;
+    margin: 10px;
+    padding: 20px;
+}
+
+.p5{
+    color: white;
+    font-family: cursive;
+    text-align: center;
+}
